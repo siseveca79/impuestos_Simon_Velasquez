@@ -8,3 +8,4 @@
 3. npx babel src --out-dir dist --copy-files
 4. node --experimental-modules dist/main.js
 
+![Resultado](/impuestos_git.png)
