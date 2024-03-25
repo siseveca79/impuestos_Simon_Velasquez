@@ -1,10 +1,9 @@
 // Importa la clase Cliente desde el archivo Cliente.js
 import Cliente from './Cliente.js';
-
 // Importa la clase Impuesto desde el archivo Impuesto.js
 import Impuesto from './Impuesto.js';
 
-// Crea más instancias de Cliente con diferentes datos
+// Crea instancias de Cliente con diferentes datos
 const cliente1 = new Cliente('Juan Pérez', '12345678-9', 1500000, 50000);
 const cliente2 = new Cliente('María García', '98765432-1', 800000, 200000);
 const cliente3 = new Cliente('Carlos López', '45678901-2', 2000000, 300000);
